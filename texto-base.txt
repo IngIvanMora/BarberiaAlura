@@ -3,3 +3,4 @@ Ubicada en el corazón de la ciudad, la Barbería Alura trae para el mercado lo 
 Nuestra misión es: "Proporcionar autoestima y calidad de vida a nuestros clientes".
 Ofrecemos profesionales experimentados que están constantemente observando los cambios y movimiento en el mundo de la moda, para así ofrecer a nuestros clientes las últimas tendencias. El atendimiento posee un padrón de excelencia y agilidad, garantizando calidad y satisfacción de nuestros clientes. 
 probando historial de cambios en github
+/*otro enlace de prueba unicamente
